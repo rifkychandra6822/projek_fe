@@ -3,7 +3,7 @@
 ﻿# Projek_TCC DOKUMENTASI API
 
 Dokumentasi API PokeAPI : https://pokeapi.co/api/v2/pokemon/{id or name}/
-{
+``{
   "id": 35,
   "name": "clefairy",
   "base_experience": 113,
@@ -12,7 +12,7 @@ Dokumentasi API PokeAPI : https://pokeapi.co/api/v2/pokemon/{id or name}/
   "order": 56,
   "weight": 75,
   "abilities": [
-{
+{``
       "is_hidden": true,
       "slot": 3,
       "ability": {
